@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Barbara Contardi</h1>
 <h3 align="center">A passionate full-stack developer from Spain</h3>
 
-- 🔭 I’m currently working on [Pancake-swap](https://github.com/Develhope-e3)
+- 🔭 Recently finished project [Pancake-swap](https://pancake-swap-roan.vercel.app/)
 
-- 🌱 I’m currently learning **React, TypeScript, Node.js**
+- 🌱 Another project I work on [AnthrBoy](https://anthrboy.com/)
+  
+- 🔭 My [Linkedin](https://www.linkedin.com/in/barbara-contardi/) profile 
 
 - 📫 How to reach me **barbi.contardi@gmail.com**
 
