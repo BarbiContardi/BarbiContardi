@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barbara Contardi</h1>
-<h3 align="center">A passionate full-stack developer from Spain</h3>
+<h3 align="center">A passionate junior full-stack web developer from Spain</h3>
 
 - 🔭 Recently finished project [Pancake-swap](https://pancake-swap-roan.vercel.app/)
 
