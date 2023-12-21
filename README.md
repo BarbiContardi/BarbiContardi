@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Barbara Contardi</h1>
 <h3 align="center">A passionate junior full-stack web developer from Spain</h3>
 
+- 🌱 Currently working on this project [ApuntoMotor](https://apuntomotor.com/)
+- 
 - 🔭 Recently finished project [Pancake-swap](https://pancake-swap-roan.vercel.app/)
 
 - 🌱 Another project I work on [AnthrBoy](https://anthrboy.com/)
