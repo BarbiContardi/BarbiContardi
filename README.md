@@ -2,13 +2,9 @@
 <h3 align="center">A passionate junior full-stack web developer from Spain</h3>
 
 - 🌱 Currently working on this project [ApuntoMotor](https://apuntomotor.com/)
-  
 - 🔭 Recently finished project [Pancake-swap](https://pancake-swap-roan.vercel.app/)
-
 - 🌱 Another project I work on [AnthrBoy](https://anthrboy.com/)
-  
 - 🔭 My [Linkedin](https://www.linkedin.com/in/barbara-contardi/) profile 
-
 - 📫 How to reach me **barbi.contardi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
